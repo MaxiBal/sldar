@@ -1,0 +1,6 @@
+[submodule "temperature"]
+	path = temperature
+	url = https://github.com/MaxiBal/DHT_ros.git
+[submodule "color_map"]
+	path = color_map
+	url = https://github.com/MaxiBal/color_map.git
